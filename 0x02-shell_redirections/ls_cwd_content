@@ -1,0 +1,13 @@
+total 44
+drwxr-xr-x 2 root root   206 Feb 13 03:55 .
+drwxr-xr-x 6 root root   121 Feb 13 00:06 ..
+-rwxr--r-- 1 root root    30 Feb 13 00:20 0-hello_world
+-rwxr--r-- 1 root root    33 Feb 13 00:37 1-confused_smiley
+-rwxr--r-- 1 root root    28 Feb 13 03:30 2-hellofile
+-rwxr--r-- 1 root root    35 Feb 13 03:26 4-lastlines
+-rwxr--r-- 1 root root    35 Feb 13 02:48 5-firstlines
+-rwxr--r-- 1 root root    37 Feb 13 03:05 6-third_line
+-rwxr--r-- 1 root root    34 Feb 13 03:53 8-cwd_state
+-rw------- 1 root root 12288 Feb 13 03:06 .iacta.swp
+-rw-r--r-- 1 root root     0 Feb 13 03:55 ls_cwd_content
+-rw-r--r-- 1 root root    19 Feb 13 00:07 README.md
